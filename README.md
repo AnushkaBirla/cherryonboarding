@@ -1,14 +1,3 @@
-Cherry Chrome Extensions
-
-Background scripts: listeners running in the background
-Options page: allows users to customize their extension
-- can be loaded as a page in another tab, or embedded (like a popup) on the same tab.
-- This is the onboarding page of the extension
-
-To set up for testing locally
-- go to chrome://extensions/
-- click on load unpacked, and select the local project on your computer. It should show up as an extension now called Cherry Onboarding.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
