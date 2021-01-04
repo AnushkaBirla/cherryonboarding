@@ -1,3 +1,11 @@
+Cherry Chrome Extensions
+Background scripts: listeners running in the background
+Options page: allows users to customize their extension
+- can be loaded as a page in another tab, or embedded (like a popup) on the same tab.
+- This is the onboarding page of the extension
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
